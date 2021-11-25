@@ -1,13 +1,71 @@
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@layer base {
+  @font-face
+  font-family: 'Open Sans'
+  src: url('assets/fonts/Open_Sans/OpenSans-Regular.ttf')
+  font-weight: 400
+
+@font-face
+  font-family: 'Open Sans'
+  src: url('assets/fonts/Open_Sans/OpenSans-SemiBold.ttf')
+  font-weight: 600
+
+@font-face
+  font-family: 'Open Sans'
+  src: url('assets/fonts/Open_Sans/OpenSans-Bold.ttf')
+  font-weight: 700
+
+@font-face
+  font-family: 'Krub'
+  src: url('assets/fonts/Krub/Krub-Regular.ttf')
+  font-weight: 400
+
+@font-face
+  font-family: 'Krub'
+  src: url('assets/fonts/Krub/Krub-SemiBold.ttf')
+  font-weight: 600
+
+@font-face
+  font-family: 'Krub'
+  src: url('assets/fonts/Krub/Krub-Bold.ttf')
+  font-weight: 700
+}
+
+@layer utilities {
+  .bg-gradient {
+    background: linear-gradient(0deg, #FFFFFF -0.03%, rgba(255, 255, 255, 0) 35.46%), radial-gradient(34.87% 63.86% at -3.49% 53.56%, #E5F3FC 0%, rgba(229, 243, 252, 0) 100%), radial-gradient(31.77% 108.34% at 18.23% -5.77%, rgba(255, 255, 255, 0.5) 0%, rgba(255, 255, 255, 0) 98.36%), radial-gradient(73.6% 100% at 50% 100%, #FFFFFF 0%, rgba(255, 255, 255, 0) 98.36%), radial-gradient(72.08% 187.02% at 100% 53.56%, #D3BEFC 0%, rgba(230, 220, 250, 0) 100%), linear-gradient(223.83deg, #E6DCFA 11.75%, #FFFFFF 75.51%);
+  }
+
+  .bg-gradient-two {
+    background: radial-gradient(34.87% 63.86% at -3.49% 53.56%, #E5F3FC 0%, rgba(229, 243, 252, 0) 100%), radial-gradient(31.77% 108.34% at 18.23% -5.77%, rgba(255, 255, 255, 0.5) 0%, rgba(255, 255, 255, 0) 98.36%), radial-gradient(73.6% 100% at 50% 100%, #FFFFFF 0%, rgba(255, 255, 255, 0) 98.36%), radial-gradient(72.08% 187.02% at 100% 53.56%, #D3BEFC 0%, rgba(230, 220, 250, 0) 100%), linear-gradient(223.83deg, #E6DCFA 11.75%, #FFFFFF 75.51%);
+  }
+
+  .bg-white-blur {
+    backdrop-filter: blur(16px);
+    background-color: rgba(255,255,255,0.8);
+  }
+}
+
+@layer components {
+
+  .body-text {
+    @apply text-black-60 text-base font-open font-normal;
+  }
+
+  .floating-container {
+    @apply w-full p-12 bg-white-blur border-2 border-purple-50 rounded-2xl 
+    tl:p-8
+    ml:max-w-cxxs
+    ms:p-4
+  }
 }

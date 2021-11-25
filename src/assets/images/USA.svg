@@ -1,0 +1,17 @@
+<svg width="17" height="14" viewBox="0 0 17 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="17" height="14">
+<rect y="0.0273438" width="17" height="13.6" rx="2" fill="#C4C4C4"/>
+</mask>
+<g mask="url(#mask0)">
+<rect y="10.9082" width="21.08" height="2.72" fill="#FF3B61"/>
+<rect y="8.1875" width="21.08" height="2.72" fill="white"/>
+<rect y="5.4668" width="21.08" height="2.72" fill="#FF3B61"/>
+<rect y="0.0273438" width="21.08" height="2.72" fill="#FF3B61"/>
+<rect y="2.74805" width="21.08" height="2.72" fill="white"/>
+<rect y="0.0273438" width="10.88" height="8.16" fill="#2D82E8"/>
+<rect x="3.3418" y="1.44531" width="1.36" height="1.36" transform="rotate(45 3.3418 1.44531)" fill="white"/>
+<rect x="7.30469" y="1.38672" width="1.36" height="1.36" transform="rotate(45 7.30469 1.38672)" fill="white"/>
+<rect x="3.3418" y="4.72852" width="1.36" height="1.36" transform="rotate(45 3.3418 4.72852)" fill="white"/>
+<rect x="7.30469" y="4.66992" width="1.36" height="1.36" transform="rotate(45 7.30469 4.66992)" fill="white"/>
+</g>
+</svg>
