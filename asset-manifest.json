@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Selia-clone/static/css/main.1115b6b8.chunk.css",
+    "main.js": "/Selia-clone/static/js/main.6c7c0970.chunk.js",
+    "main.js.map": "/Selia-clone/static/js/main.6c7c0970.chunk.js.map",
+    "runtime-main.js": "/Selia-clone/static/js/runtime-main.4b7c0343.js",
+    "runtime-main.js.map": "/Selia-clone/static/js/runtime-main.4b7c0343.js.map",
+    "static/js/2.47ed736a.chunk.js": "/Selia-clone/static/js/2.47ed736a.chunk.js",
+    "static/js/2.47ed736a.chunk.js.map": "/Selia-clone/static/js/2.47ed736a.chunk.js.map",
+    "index.html": "/Selia-clone/index.html",
+    "static/css/main.1115b6b8.chunk.css.map": "/Selia-clone/static/css/main.1115b6b8.chunk.css.map",
+    "static/js/2.47ed736a.chunk.js.LICENSE.txt": "/Selia-clone/static/js/2.47ed736a.chunk.js.LICENSE.txt",
+    "static/media/Apple Store.06d32172.svg": "/Selia-clone/static/media/Apple Store.06d32172.svg",
+    "static/media/Arrow.1366b373.svg": "/Selia-clone/static/media/Arrow.1366b373.svg",
+    "static/media/Burger menu.c0b0ef18.svg": "/Selia-clone/static/media/Burger menu.c0b0ef18.svg",
+    "static/media/Close.6c622a9e.svg": "/Selia-clone/static/media/Close.6c622a9e.svg",
+    "static/media/Google play.db4a0989.svg": "/Selia-clone/static/media/Google play.db4a0989.svg",
+    "static/media/Logotipo.71f63cf9.svg": "/Selia-clone/static/media/Logotipo.71f63cf9.svg",
+    "static/media/Spain.737d0df5.svg": "/Selia-clone/static/media/Spain.737d0df5.svg",
+    "static/media/Terapia individual icon.36d400d9.svg": "/Selia-clone/static/media/Terapia individual icon.36d400d9.svg",
+    "static/media/Terapie de pareja icon.193329a9.svg": "/Selia-clone/static/media/Terapie de pareja icon.193329a9.svg",
+    "static/media/benefit.41c28fa5.png": "/Selia-clone/static/media/benefit.41c28fa5.png",
+    "static/media/comillas_dobles.9a3d5ecd.svg": "/Selia-clone/static/media/comillas_dobles.9a3d5ecd.svg",
+    "static/media/home-banner.1b4622b5.png": "/Selia-clone/static/media/home-banner.1b4622b5.png",
+    "static/media/logo_with_name.cc1493a8.svg": "/Selia-clone/static/media/logo_with_name.cc1493a8.svg",
+    "static/media/paso-1.e77bbf76.png": "/Selia-clone/static/media/paso-1.e77bbf76.png",
+    "static/media/paso-2.25b61b65.jpg": "/Selia-clone/static/media/paso-2.25b61b65.jpg",
+    "static/media/paso-3.07872234.png": "/Selia-clone/static/media/paso-3.07872234.png",
+    "static/media/specialist-alt.848f2115.png": "/Selia-clone/static/media/specialist-alt.848f2115.png",
+    "static/media/specialist-by-selia.094fcf77.png": "/Selia-clone/static/media/specialist-by-selia.094fcf77.png",
+    "static/media/telephones.a9b43800.png": "/Selia-clone/static/media/telephones.a9b43800.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b7c0343.js",
+    "static/js/2.47ed736a.chunk.js",
+    "static/css/main.1115b6b8.chunk.css",
+    "static/js/main.6c7c0970.chunk.js"
+  ]
+}
