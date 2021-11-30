@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Selia-clone/static/css/main.e417d5ed.chunk.css",
-    "main.js": "/Selia-clone/static/js/main.61c32853.chunk.js",
-    "main.js.map": "/Selia-clone/static/js/main.61c32853.chunk.js.map",
+    "main.css": "/Selia-clone/static/css/main.2171d89e.chunk.css",
+    "main.js": "/Selia-clone/static/js/main.3511e16d.chunk.js",
+    "main.js.map": "/Selia-clone/static/js/main.3511e16d.chunk.js.map",
     "runtime-main.js": "/Selia-clone/static/js/runtime-main.4b7c0343.js",
     "runtime-main.js.map": "/Selia-clone/static/js/runtime-main.4b7c0343.js.map",
-    "static/js/2.cd17583e.chunk.js": "/Selia-clone/static/js/2.cd17583e.chunk.js",
-    "static/js/2.cd17583e.chunk.js.map": "/Selia-clone/static/js/2.cd17583e.chunk.js.map",
+    "static/js/2.8ce0d46c.chunk.js": "/Selia-clone/static/js/2.8ce0d46c.chunk.js",
+    "static/js/2.8ce0d46c.chunk.js.map": "/Selia-clone/static/js/2.8ce0d46c.chunk.js.map",
     "index.html": "/Selia-clone/index.html",
-    "static/css/main.e417d5ed.chunk.css.map": "/Selia-clone/static/css/main.e417d5ed.chunk.css.map",
-    "static/js/2.cd17583e.chunk.js.LICENSE.txt": "/Selia-clone/static/js/2.cd17583e.chunk.js.LICENSE.txt",
+    "static/css/main.2171d89e.chunk.css.map": "/Selia-clone/static/css/main.2171d89e.chunk.css.map",
+    "static/js/2.8ce0d46c.chunk.js.LICENSE.txt": "/Selia-clone/static/js/2.8ce0d46c.chunk.js.LICENSE.txt",
     "static/media/Apple Store.06d32172.svg": "/Selia-clone/static/media/Apple Store.06d32172.svg",
     "static/media/Arrow.1366b373.svg": "/Selia-clone/static/media/Arrow.1366b373.svg",
     "static/media/Burger menu.c0b0ef18.svg": "/Selia-clone/static/media/Burger menu.c0b0ef18.svg",
@@ -32,8 +32,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.4b7c0343.js",
-    "static/js/2.cd17583e.chunk.js",
-    "static/css/main.e417d5ed.chunk.css",
-    "static/js/main.61c32853.chunk.js"
+    "static/js/2.8ce0d46c.chunk.js",
+    "static/css/main.2171d89e.chunk.css",
+    "static/js/main.3511e16d.chunk.js"
   ]
 }
